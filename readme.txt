@@ -1,4 +1,4 @@
-Excersice to solve:
+Exercise to solve:
 
 Take this paragraph of text and return an alphabetized list of ALL unique words.  A unique word is any form of a word often communicated with essentially the same meaning. For example, fish and fishes could be defined as a unique word by using their stem fish. For each unique word found in this entire paragraph, determine the how many times the word appears in total. Also, provide an analysis of what sentence index position or positions the word is found. The following words should not be included in your analysis or result set: "a", "the", "and", "of", "in", "be", "also" and "as".  Your final result MUST be displayed in a readable console output in the same format as the JSON sample object shown below.
  
@@ -26,8 +26,8 @@ Sample Output:
 }
 
 Resolution:
-Test.java is a class that has a main() that does the hole job. I parse a text, in paragraphs, then in sentences and then in words, 
-I use an algorithm to stem the words (stemming is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form—generally a written word form))
+Test.java is a class that has a main() method that does the hole job. I parsed a text, in paragraphs, then in sentences and then in words, 
+I used an algorithm to stem the words (stemming is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form—generally a written word form))
 Yo can see more about the library in http://snowball.tartarus.org/
 The version and dependency package was managed with maven 
 
@@ -38,8 +38,8 @@ The version and dependency package was managed with maven
 			<version>1.3.0.581.1</version>
 		</dependency>
 		
-After process each word, I store it in a map, with the occurrencies, and the sentences index of each occurrency.
-After finish the words process, I sort the alphabetically and finally parse the structure values into a Json Object(I use faster classes to generate the output)
+After process each word, I stored it in a map, with the occurrencies, and the sentences index of each occurrency.
+After finish the words process, I sorted the alphabetically and finally parse the structure values into a Json Object(I used faster classes to generate the output with Json format)
 
 	<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
 		<dependency>
