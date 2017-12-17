@@ -57,619 +57,621 @@ Your donation will help WWF to protect and connect tiger habitats on a massive s
 
 The Output is:
 
-[
-  {
-    "word": "3890",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "After",
-    "sentenceIndexes": [
-      0
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "All",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "Asian",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "At",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "Caspianhav",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "China",
-    "sentenceIndexes": [
-      5
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "Demand",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "Javan",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "South",
-    "sentenceIndexes": [
-      5
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "The",
-    "sentenceIndexes": [
-      5
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "Three",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "Togeth",
-    "sentenceIndexes": [
-      7
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "WWF",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "Your",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "act",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "alreadi",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "antipoach",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "ar",
-    "sentenceIndexes": [
-      0,
-      6
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "been",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "but",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "can",
-    "sentenceIndexes": [
-      7
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "centuri",
-    "sentenceIndexes": [
-      0
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "clamp",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "connect",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "countri",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "danger",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "declin",
-    "sentenceIndexes": [
-      0
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "donat",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "dont",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "down",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "effort",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "empti",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "extinct",
-    "sentenceIndexes": [
-      1,
-      5
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "fate",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "five",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "for",
-    "sentenceIndexes": [
-      2,
-      7
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "forest",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "futur",
-    "sentenceIndexes": [
-      7
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "gener",
-    "sentenceIndexes": [
-      7
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "habitat",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "help",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "i",
-    "sentenceIndexes": [
-      1,
-      2,
-      5
-    ],
-    "totalOccurrences": 3
-  },
-  {
-    "word": "if",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "increas",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "it",
-    "sentenceIndexes": [
-      5
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "last",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "least",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "massiv",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "more",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "much",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "need",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "now",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "number",
-    "sentenceIndexes": [
-      0
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "on",
-    "sentenceIndexes": [
-      0,
-      5,
-      9,
-      9
-    ],
-    "totalOccurrences": 4
-  },
-  {
-    "word": "other",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "out",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "part",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "poach",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "protect",
-    "sentenceIndexes": [
-      1,
-      9
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "remain",
-    "sentenceIndexes": [
-      1,
-      6
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "result",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "rise",
-    "sentenceIndexes": [
-      0
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "same",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "save",
-    "sentenceIndexes": [
-      7
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "scale",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "some",
-    "sentenceIndexes": [
-      2
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "speci",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "still",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "subspeci",
-    "sentenceIndexes": [
-      6
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "subspeciesBali",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "support",
-    "sentenceIndexes": [
-      9
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "that",
-    "sentenceIndexes": [
-      1,
-      2
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "thi",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "tiger",
-    "sentenceIndexes": [
-      0,
-      1,
-      2,
-      2,
-      4,
-      5,
-      7,
-      9,
-      9
-    ],
-    "totalOccurrences": 9
-  },
-  {
-    "word": "to",
-    "sentenceIndexes": [
-      1,
-      1,
-      5,
-      9
-    ],
-    "totalOccurrences": 4
-  },
-  {
-    "word": "trade",
-    "sentenceIndexes": [
-      2,
-      9
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "vulner",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "wai",
-    "sentenceIndexes": [
-      5
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "we",
-    "sentenceIndexes": [
-      6,
-      7
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "wild",
-    "sentenceIndexes": [
-      1,
-      2
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "will",
-    "sentenceIndexes": [
-      2,
-      9
-    ],
-    "totalOccurrences": 2
-  },
-  {
-    "word": "wipe",
-    "sentenceIndexes": [
-      4
-    ],
-    "totalOccurrences": 1
-  },
-  {
-    "word": "work",
-    "sentenceIndexes": [
-      1
-    ],
-    "totalOccurrences": 1
-  }
-]
+{
+  "results": [
+    {
+      "word": "3890",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "After",
+      "sentenceIndexes": [
+        0
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "All",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "Asian",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "At",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "Caspianhav",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "China",
+      "sentenceIndexes": [
+        5
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "Demand",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "Javan",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "South",
+      "sentenceIndexes": [
+        5
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "The",
+      "sentenceIndexes": [
+        5
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "Three",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "Togeth",
+      "sentenceIndexes": [
+        7
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "WWF",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "Your",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "act",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "alreadi",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "antipoach",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "ar",
+      "sentenceIndexes": [
+        0,
+        6
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "been",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "but",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "can",
+      "sentenceIndexes": [
+        7
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "centuri",
+      "sentenceIndexes": [
+        0
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "clamp",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "connect",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "countri",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "danger",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "declin",
+      "sentenceIndexes": [
+        0
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "donat",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "dont",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "down",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "effort",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "empti",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "extinct",
+      "sentenceIndexes": [
+        1,
+        5
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "fate",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "five",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "for",
+      "sentenceIndexes": [
+        2,
+        7
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "forest",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "futur",
+      "sentenceIndexes": [
+        7
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "gener",
+      "sentenceIndexes": [
+        7
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "habitat",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "help",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "i",
+      "sentenceIndexes": [
+        1,
+        2,
+        5
+      ],
+      "totalOccurrences": 3
+    },
+    {
+      "word": "if",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "increas",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "it",
+      "sentenceIndexes": [
+        5
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "last",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "least",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "massiv",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "more",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "much",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "need",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "now",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "number",
+      "sentenceIndexes": [
+        0
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "on",
+      "sentenceIndexes": [
+        0,
+        5,
+        9,
+        9
+      ],
+      "totalOccurrences": 4
+    },
+    {
+      "word": "other",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "out",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "part",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "poach",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "protect",
+      "sentenceIndexes": [
+        1,
+        9
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "remain",
+      "sentenceIndexes": [
+        1,
+        6
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "result",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "rise",
+      "sentenceIndexes": [
+        0
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "same",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "save",
+      "sentenceIndexes": [
+        7
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "scale",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "some",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "speci",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "still",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "subspeci",
+      "sentenceIndexes": [
+        6
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "subspeciesBali",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "support",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "that",
+      "sentenceIndexes": [
+        1,
+        2
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "thi",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "tiger",
+      "sentenceIndexes": [
+        0,
+        1,
+        2,
+        2,
+        4,
+        5,
+        7,
+        9,
+        9
+      ],
+      "totalOccurrences": 9
+    },
+    {
+      "word": "to",
+      "sentenceIndexes": [
+        1,
+        1,
+        5,
+        9
+      ],
+      "totalOccurrences": 4
+    },
+    {
+      "word": "trade",
+      "sentenceIndexes": [
+        2,
+        9
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "vulner",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "wai",
+      "sentenceIndexes": [
+        5
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "we",
+      "sentenceIndexes": [
+        6,
+        7
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "wild",
+      "sentenceIndexes": [
+        1,
+        2
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "will",
+      "sentenceIndexes": [
+        2,
+        9
+      ],
+      "totalOccurrences": 2
+    },
+    {
+      "word": "wipe",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "work",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    }
+  ]
+}

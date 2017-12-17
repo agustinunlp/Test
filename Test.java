@@ -36,7 +36,9 @@ public class Test {
 		ObjectMapper mapper = new ObjectMapper();
 		String json = "";
 		try {
-			json = mapper.writeValueAsString(treeMap.values());
+			WordsResult result = new WordsResult();
+			result.setResults(treeMap.values());
+			json = mapper.writeValueAsString(result);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
