@@ -67,105 +67,21 @@ The Output is:
       "totalOccurrences": 1
     },
     {
-      "word": "After",
-      "sentenceIndexes": [
-        0
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "All",
+      "word": "act",
       "sentenceIndexes": [
         6
       ],
       "totalOccurrences": 1
     },
     {
-      "word": "Asian",
+      "word": "after",
       "sentenceIndexes": [
-        2
+        0
       ],
       "totalOccurrences": 1
     },
     {
-      "word": "At",
-      "sentenceIndexes": [
-        1
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "Caspianhav",
-      "sentenceIndexes": [
-        4
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "China",
-      "sentenceIndexes": [
-        5
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "Demand",
-      "sentenceIndexes": [
-        2
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "Javan",
-      "sentenceIndexes": [
-        4
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "South",
-      "sentenceIndexes": [
-        5
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "The",
-      "sentenceIndexes": [
-        5
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "Three",
-      "sentenceIndexes": [
-        4
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "Togeth",
-      "sentenceIndexes": [
-        7
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "WWF",
-      "sentenceIndexes": [
-        9
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "Your",
-      "sentenceIndexes": [
-        9
-      ],
-      "totalOccurrences": 1
-    },
-    {
-      "word": "act",
+      "word": "all",
       "sentenceIndexes": [
         6
       ],
@@ -194,6 +110,20 @@ The Output is:
       "totalOccurrences": 2
     },
     {
+      "word": "asian",
+      "sentenceIndexes": [
+        2
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "at",
+      "sentenceIndexes": [
+        1
+      ],
+      "totalOccurrences": 1
+    },
+    {
       "word": "been",
       "sentenceIndexes": [
         4
@@ -215,9 +145,23 @@ The Output is:
       "totalOccurrences": 1
     },
     {
+      "word": "caspianhav",
+      "sentenceIndexes": [
+        4
+      ],
+      "totalOccurrences": 1
+    },
+    {
       "word": "centuri",
       "sentenceIndexes": [
         0
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "china",
+      "sentenceIndexes": [
+        5
       ],
       "totalOccurrences": 1
     },
@@ -253,6 +197,13 @@ The Output is:
       "word": "declin",
       "sentenceIndexes": [
         0
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "demand",
+      "sentenceIndexes": [
+        2
       ],
       "totalOccurrences": 1
     },
@@ -383,6 +334,13 @@ The Output is:
       "word": "it",
       "sentenceIndexes": [
         5
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "javan",
+      "sentenceIndexes": [
+        4
       ],
       "totalOccurrences": 1
     },
@@ -539,6 +497,13 @@ The Output is:
       "totalOccurrences": 1
     },
     {
+      "word": "south",
+      "sentenceIndexes": [
+        5
+      ],
+      "totalOccurrences": 1
+    },
+    {
       "word": "speci",
       "sentenceIndexes": [
         1
@@ -560,7 +525,7 @@ The Output is:
       "totalOccurrences": 1
     },
     {
-      "word": "subspeciesBali",
+      "word": "subspeciesbali",
       "sentenceIndexes": [
         4
       ],
@@ -582,9 +547,23 @@ The Output is:
       "totalOccurrences": 2
     },
     {
+      "word": "the",
+      "sentenceIndexes": [
+        5
+      ],
+      "totalOccurrences": 1
+    },
+    {
       "word": "thi",
       "sentenceIndexes": [
         1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "three",
+      "sentenceIndexes": [
+        4
       ],
       "totalOccurrences": 1
     },
@@ -612,6 +591,13 @@ The Output is:
         9
       ],
       "totalOccurrences": 4
+    },
+    {
+      "word": "togeth",
+      "sentenceIndexes": [
+        7
+      ],
+      "totalOccurrences": 1
     },
     {
       "word": "trade",
@@ -670,6 +656,20 @@ The Output is:
       "word": "work",
       "sentenceIndexes": [
         1
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "wwf",
+      "sentenceIndexes": [
+        9
+      ],
+      "totalOccurrences": 1
+    },
+    {
+      "word": "your",
+      "sentenceIndexes": [
+        9
       ],
       "totalOccurrences": 1
     }
