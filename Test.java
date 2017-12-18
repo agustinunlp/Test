@@ -2,9 +2,8 @@ package com.project.test;
 
 import java.io.IOException;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
+import java.util.SortedMap;
 import java.util.TreeMap;
 
 import org.springframework.util.StringUtils;
@@ -20,7 +19,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class Test {
 
-	private static HashMap<String,WordInfo> resultMap = new HashMap<>();
+	private static SortedMap<String,WordInfo> resultMap = new TreeMap<String,WordInfo>();
 	private static int sentenceIndex = 0;
 	private static List<String> excludedWords = Arrays.asList("a","the","and","of","in","be","also","as");
 
@@ -31,13 +30,12 @@ public class Test {
 			"\n" + 
 			"Your donation will help WWF to protect and connect tiger habitats on a massive scale, support and increase antipoaching efforts, and clamp down on tiger trade.";
 	public static void main(String[] args) {
-		parseText(entryText);
-		Map<String, WordInfo> treeMap = new TreeMap<String, WordInfo>(resultMap);
+		parseText(entryText);		
 		ObjectMapper mapper = new ObjectMapper();
 		String json = "";
 		try {
 			WordsResult result = new WordsResult();
-			result.setResults(treeMap.values());
+			result.setResults(resultMap.values());
 			json = mapper.writeValueAsString(result);
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -81,7 +79,7 @@ public class Test {
 			porterStemmer porter = new porterStemmer();
 			porter.setCurrent(word);
 			porter.stem();
-			String current = porter.getCurrent();
+			String current = porter.getCurrent().toLowerCase();
 
 			if(!resultMap.containsKey(current)) {
 				resultMap.put(current, new WordInfo(current));
